@@ -121,7 +121,7 @@ p{
   top: clamp(5px, 1vw, 10px);
   left: clamp(5px, 1vw, 10px);
   width: clamp(28 px, 5vw, 55px);
-  height: 60;
+  height: 10;
   z-index: 10;
 }
 
